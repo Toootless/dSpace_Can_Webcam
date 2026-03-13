@@ -1,0 +1,9 @@
+{
+  "session_name": "dspace_can_webcam_session",
+  "session_started": "2026-03-13T10:51:11.064008",
+  "session_ended": "2026-03-13T10:51:16.074302",
+  "total_sync_points": 5,
+  "total_can_messages": 20,
+  "total_webcam_frames": 5,
+  "output_directory": "recordings\\dspace_can_webcam_session_20260313_105116"
+}

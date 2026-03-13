@@ -1,0 +1,21 @@
+{
+  "dspace": {
+    "base_url": "http://localhost:8080/rest",
+    "username": "admin",
+    "timeout": 30
+  },
+  "can_interface": {
+    "bus1": {
+      "bitrate": 500000,
+      "channel": "CAN1"
+    },
+    "bus2": {
+      "bitrate": 500000,
+      "channel": "CAN2"
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}
